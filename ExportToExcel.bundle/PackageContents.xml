@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage SchemaVersion="1.0" AppVersion="1.0"
+    ProductCode="1ab29e2b-e477-4f06-9778-34c697071bbf"
+    Name="ExportToExcel"
+	Author="Lukas Wenning"
+>
+ 
+  <Components>
+    <ComponentEntry
+	AppName="Export to Excel"
+    ModuleName="./Contents/AutoCAD2023Plugin-ExportToExcel.dll"
+    />
+  </Components>
+</ApplicationPackage>

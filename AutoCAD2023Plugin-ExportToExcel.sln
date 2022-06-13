@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD2023Plugin-ExportToExcel", "AutoCAD2023Plugin-ExportToExcel\AutoCAD2023Plugin-ExportToExcel.csproj", "{1AB29E2B-E477-4F06-9778-34C697071BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AB29E2B-E477-4F06-9778-34C697071BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB29E2B-E477-4F06-9778-34C697071BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB29E2B-E477-4F06-9778-34C697071BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB29E2B-E477-4F06-9778-34C697071BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3CE39C-261B-4756-BB05-679411150D22}
+	EndGlobalSection
+EndGlobal
